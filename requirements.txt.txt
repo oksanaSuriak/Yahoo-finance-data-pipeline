@@ -1,0 +1,6 @@
+pyspark
+delta-lake
+yfinance
+matplotlib
+seaborn
+pandas
